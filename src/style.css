@@ -1,0 +1,15 @@
+body {
+  backround: sand;
+}
+p {
+  position: absolute;
+  top: 50%;
+  font-size: 50px;
+}
+
+#p1 {
+  left:25%
+}
+#p2 {
+  right:25%
+}
